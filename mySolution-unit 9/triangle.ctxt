@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=triangle
+comment0.text=\n\ \u5728\u8FD9\u91CC\u7ED9\u51FA\u5BF9\u7C7B\ triangle\ \u7684\u63CF\u8FF0\u3002\n\ \n\ @\u4F5C\u8005\uFF08\u4F60\u7684\u540D\u5B57\uFF09\n\ @\u7248\u672C\uFF08\u4E00\u4E2A\u7248\u672C\u53F7\u6216\u8005\u4E00\u4E2A\u65E5\u671F\uFF09\n
+comment1.params=trigColor\ trigFilled\ s1\ s2\ s3
+comment1.target=triangle(java.lang.String,\ boolean,\ double,\ double,\ double)
+comment2.params=
+comment2.target=void\ calculatePerimeter()
+comment3.params=
+comment3.target=void\ calculateArea()
+comment4.params=newSide
+comment4.target=void\ changeSide1(double)
+comment5.params=newSide
+comment5.target=void\ changeSide2(double)
+comment6.params=newSide
+comment6.target=void\ changeSide3(double)
+comment7.params=
+comment7.target=double\ getSide1()
+comment8.params=
+comment8.target=double\ getSide2()
+comment9.params=
+comment9.target=double\ getSide3()
+numComments=10
